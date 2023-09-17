@@ -1,0 +1,139 @@
+
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    
+    
+}
+
+
+ul {
+
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+
+}
+
+li{
+
+    display: inline-block;
+    padding: 5px;
+    margin: 10px;
+    border-style: initial;
+    font-size: 20px;
+}
+
+p{
+
+    margin: 50px;
+    color: white;
+
+}
+
+main{
+
+    margin: 20px;
+}
+
+footer{
+
+    background-image: url(../assets/galeria2.webp);
+    padding: 3px;
+    text-align: center;
+    
+}
+
+
+.fuente {
+
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+
+}
+
+.fuente-titulos{
+
+    font-family: 'Poppins', sans-serif;
+    font-size: 32px;
+    
+    
+}
+
+.color-texto{
+    color: whitesmoke;
+
+}
+
+
+
+
+.centrar{
+
+    text-align: center;
+    
+
+}
+
+.fondo{
+    
+    background-color: gray;
+
+}
+
+.texto-paradox{
+
+    
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 20px;
+
+}
+.texto-index{
+
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 20px;
+
+}
+
+
+.texto-derecha{
+
+    text-align: right;
+
+}
+
+.estilo-galeria{
+
+    background-color: rgba(245, 245, 245, 0.247);
+    margin-right: 200px;
+    margin-left: 200px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+    
+}
+
+.estilo-nav{
+    background-color: rgba(245, 245, 245, 0.247);
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+
+
+
